@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+
+<img src="https://raw.githubusercontent.com/kaioaugusto07/kaioaugusto07/output/snake.svg" alt="Snake animation" />
+
+###
 <!--
 **kaioaugusto07/kaioaugusto07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
