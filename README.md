@@ -1,4 +1,4 @@
-## Olá, eu sou Kaio 👋
+## Olá, me chamo Kaio 👋
 
 Desenvolvedor Fullstack com foco em aplicações web modernas.
 
