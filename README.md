@@ -4,10 +4,10 @@ Desenvolvedor Fullstack com foco em aplicações web modernas.
 
 ## Tecnologias
 
-**Front-end:** React · TypeScript
-**Back-end:** Node.js · Express
-**Database:** PostgreSQL · Prisma  
-**Testing:** Jest
+**Front-end:** React · TypeScript <br>
+**Back-end:** Node.js · Express <br>
+**Database:** PostgreSQL · Prisma  <br>
+**Testing:** Jest <br>
 **Tools:** Git · Docker · REST APIs
 
 ## Contato
