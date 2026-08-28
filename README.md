@@ -1,6 +1,6 @@
 ## Me chamo Kaio 
 
-Desenvolvedor Fullstack com foco em aplicações web modernas.
+Desenvolvedor Fullstack com foco em aplicações web modernas
 
 ## Tecnologias
 
