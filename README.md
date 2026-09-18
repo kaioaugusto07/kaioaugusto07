@@ -1,4 +1,4 @@
-## My name is Kaio.
+## My name is Kaio
 
 Fullstack developer focused on modern web applications.
 
